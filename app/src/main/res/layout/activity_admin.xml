@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo_d"
+    tools:context="com.techobbyist.signuplogin.AdminMain">
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:id="@+id/imageView"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="71dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bienvenido Administrador"
+            android:textColor="@color/BLANCO"
+            android:textSize="21dp"
+            android:id="@+id/textView"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Beneficios"
+            android:id="@+id/btn_ben"
+            android:layout_marginTop="30dp"
+            android:layout_below="@+id/textView"
+            android:layout_alignLeft="@+id/btn_sal"
+            android:layout_alignStart="@+id/btn_sal"
+            android:drawableLeft="@drawable/ic_h"
+            />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Usuarios"
+            android:id="@+id/btn_us"
+            android:layout_below="@+id/btn_ben"
+            android:layout_alignLeft="@+id/btn_ben"
+            android:layout_alignStart="@+id/btn_ben"
+            android:drawableLeft="@drawable/ic_i"/>
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Salir"
+            android:id="@+id/btn_sal"
+            android:layout_below="@+id/btn_us"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</LinearLayout>

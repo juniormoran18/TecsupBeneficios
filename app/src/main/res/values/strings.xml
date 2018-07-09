@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Beneficios Tecsup</string>
+    <string name="titulo1">"338"</string>
+    <string name="descripcion1">Obtienes un 2 x 1 en los frappes de fresa, vainilla o chocolate</string>
+
+    <string name="titulo2">Cineplanet</string>
+    <string name="descripcion2">Obtines una cancha gigante recargable mas dos bebidas medianas a solo s/19.90 </string>
+
+    <string name="titulo3">Pizza Hut</string>
+    <string name="descripcion3">Obtienes dos pizza familiares desde s/ 39.90 de lunes a viernes</string>
+
+    <string name="titulo4">Inkafarma</string>
+    <string name="descripcion4">Obtienes un 20% de descuento en tus compras a partir de s/ 100 </string>
+
+    <string name="titulo5">Kfc</string>
+    <string name="descripcion5">Elige entre el combo 1, combo 2 o combo 3 a solo s/ 9.90</string>
+
+    <string name="titulo6">Aura</string>
+    <string name="descripcion6">Obtienes la entrada a s/ 20 solo los viernes</string>
+
+    <string name="titulo7">Help retro Bar</string>
+    <string name="descripcion7">Obtienes un 2 chicalnos a s/ 30 soles solo los jueves</string>
+
+    <string name="titulo8">Rustica</string>
+    <string name="descripcion8">Obtienes un 15% de descuento en el buffet de los dias domingos</string>
+
+    <string name="titulo9">Civa</string>
+    <string name="descripcion9">Obtienes un viaje ida y vuelta a cualquier destino del Peru a tan solo s/ 49.90</string>
+
+
+</resources>

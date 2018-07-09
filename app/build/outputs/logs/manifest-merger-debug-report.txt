@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:2:1-94:12
+	package
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:5:5-92:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:7:5-20
+	android:label
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.techobbyist.signuplogin.LoginActivity
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:14:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.techobbyist.signuplogin.RegisterActivity
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:22:9-54
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:22:19-51
+activity#com.techobbyist.signuplogin.MainActivity
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:23:19-47
+activity#com.techobbyist.signuplogin.MainActivity1
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:27:19-48
+activity#com.techobbyist.signuplogin.MainActivity2
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:28:9-51
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:28:19-48
+activity#com.techobbyist.signuplogin.AdminMain
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:30:9-36:20
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:30:19-44
+intent-filter#android.intent.action.MAIN1+android.intent.category.LAUNCHER1
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN1
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:32:17-70
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:32:25-67
+category#android.intent.category.LAUNCHER1
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:34:17-78
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:34:27-75
+activity#com.techobbyist.signuplogin.Admin_us
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:42:13-52
+	android:parentActivityName
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:41:13-37
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:45:13-47:46
+	android:value
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:47:17-43
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:46:17-63
+activity#com.techobbyist.signuplogin.Admin_ben
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:51:9-59:20
+	android:label
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:54:13-46
+	android:parentActivityName
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:55:13-52
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:52:13-38
+activity#com.techobbyist.signuplogin.ArrayComplejo
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:66:9-81:20
+	android:label
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:68:13-48
+	android:parentActivityName
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:69:13-55
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:67:13-42
+intent-filter#android.intent.action.MAIN2+android.intent.category.LAUNCHER2
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:75:13-79:29
+action#android.intent.action.MAIN2
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:76:17-70
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:76:25-67
+category#android.intent.category.LAUNCHER2
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:78:17-78
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:78:27-75
+activity#com.techobbyist.signuplogin.ArrayComplejo1
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:83:9-52
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:83:19-49
+activity#com.techobbyist.signuplogin.ArrayComplejo2
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:84:9-52
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:84:19-49
+activity#com.techobbyist.signuplogin.ModificarActivity
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:86:9-55
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:86:19-52
+activity#com.techobbyist.signuplogin.PreModificar
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:87:9-50
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:87:19-47
+activity#com.techobbyist.signuplogin.EliminarActivity
+ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:88:9-63
+	android:name
+		ADDED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml:88:19-51
+uses-sdk
+INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/AndroidManifest.xml:5:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Junior/Tecsup/Segundo ciclo/Base de Datos/Tecsup Beneficios/android-login-master/app/src/main/AndroidManifest.xml
